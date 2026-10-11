@@ -1,4 +1,4 @@
-# Hey, I'm Tristan Girao 👋
+# Hey, I'm Tristan 👋
 
 **Software Engineer building production-ready web applications, practical developer tools, and AI-powered engineering workflows.**
 
